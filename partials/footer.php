@@ -14,6 +14,7 @@
 
 	<script src="./lib/zepto.min.js"></script>
 	<script src="./lib/sm.min.js"></script>
+    <script src="./lib/swiper.jquery.min.js"></script>
 	<script src="./js/build.js"></script>
   </body>
 </html>

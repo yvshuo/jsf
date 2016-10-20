@@ -7,6 +7,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <title>jsf</title>
     <link rel="stylesheet" type="text/css" href="./lib/sm.min.css">
+    <link rel="stylesheet" type="text/css" href="./lib/swiper.min.css">
     <link rel="stylesheet" type="text/css" href="./css/build.css">
   </head>
   <body>
