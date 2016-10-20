@@ -6,26 +6,26 @@
 <!-- 单个page ,第一个.page默认被展示-->
 <div class="page">
     <!-- 标题栏 -->
-    <div class="ttkHeader">
-    	<div class="chooseDate"></div>
-    </div>
+    <header class="bar bar-nav">
+        <h1 class="title">标题</h1>
+    </header>
 
     <!-- 工具栏 -->
     <nav class="bar bar-tab">
-        <a class="tab-item external active">
+        <a class="tab-item external" href="index.php">
             <span class="tab-label">首页</span>
         </a>
         <a class="tab-item external" href="ttk.php">
             <span class="tab-label">团体课</span>
         </a>
-        <a class="tab-item external" href="sjk.php">
+        <a class="tab-item external active">
             <span class="tab-label">私教课</span>
         </a>
     </nav>
 
     <!-- 这里是页面内容区 -->
     <div class="content">
-        隐藏的首页
+        sjk
     </div>
 </div>
 
