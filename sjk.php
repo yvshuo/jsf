@@ -4,7 +4,7 @@
 ?>
 
 <!-- 单个page ,第一个.page默认被展示-->
-<div class="page">
+<div class="page" id="sjk">
     <!-- 标题栏 -->
     <div class="sjkHeader">
         <div class="chooseTags flex-content">
